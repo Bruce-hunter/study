@@ -10,5 +10,9 @@ finally:
     print(f)
     f.close()
     print('---2---')
+<<<<<<< HEAD
     print('---3---')
     print('---4---')
+=======
+    print('---7---')
+>>>>>>> dev
