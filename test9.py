@@ -10,3 +10,4 @@ finally:
     print(f)
     f.close()
     print('---2---')
+    print('---7---')
