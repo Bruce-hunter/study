@@ -1,13 +1,12 @@
 # -*- coding:utf-8 -*-
 
-flag = 0
+
 
 class handle(object):
+    flag = 0
     def han(self):
-        global flag
-        flag += 1
+        pass
 
 h = handle()
-h.han()
-# print(h.flag)
-print(flag)
+print(type(handle()))
+print(h.flag)
